@@ -6,14 +6,6 @@
 .env.production.local
 .env.example
 
-# --- Personal Assets (Kişisel Dosyalar) ---
-cv.pdf
-profile.jpg
-*.pdf
-*.jpg
-*.jpeg
-*.png
-
 # --- Dependencies (Bağımlılıklar) ---
 node_modules/
 jspm_packages/
